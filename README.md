@@ -62,7 +62,7 @@ This Python script processes Excel files (.xlsx) located in a specified folder, 
 
 1. **Clone the Repository:** Clone the repository to your local machine.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/DINESHPANDIAN-J/Car-Price-Evaluation.git
    ```
 
 2. **Install Dependencies:** Install required dependencies using pip.
